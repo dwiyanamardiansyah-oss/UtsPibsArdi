@@ -228,7 +228,7 @@ footer .center-copy {
   nav ul { flex-direction: column; }
 }
 
-/* 🖥️ DESKTOP */
+/* 🖥 DESKTOP */
 @media (min-width: 993px) {
   body {
     max-width: 1200px;
